@@ -6,7 +6,7 @@ The Conversation Exporter extension is a tool that allows you to export conversa
 
 To install the Conversation Exporter extension, follow these steps:
 
-1. Go to the GitHub repository for the extension at `github.com/yourusername/conversation-exporter`.
+1. Go to the GitHub repository for the extension at `github.com/LianJordaan/Conversation-Exporter`.
 2. Click on the "Clone or download" button and select "Download ZIP" to download the extension files as a ZIP archive.
 3. Extract the ZIP archive to a folder of your choice on your local device.
 4. Open your Chrome or Firefox web browser and go to the extensions management page. In Chrome, you can access this page by navigating to `chrome://extensions`, and in Firefox, you can go to `about:addons`.
