@@ -33,7 +33,6 @@ setInterval(() => {
                     reader.readAsDataURL(blob);
                     reader.onloadend = function() {
                         const base64data = reader.result;
-                        console.log(base64data)
                         const conversation = document.querySelector('main div div div div');
                         if (!conversation) {
                             alert('Could not find conversation');
