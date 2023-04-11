@@ -34,6 +34,6 @@ The Conversation Exporter extension is continuously being improved, and future u
 
 ## Feedback and Contributions
 
-If you have any feedback, suggestions, or issues with the Conversation Exporter extension, please feel free to open an issue on the GitHub repository at `github.com/yourusername/conversation-exporter/issues`. Contributions, such as bug fixes or feature enhancements, are also welcome through pull requests on the repository.
+If you have any feedback, suggestions, or issues with the Conversation Exporter extension, please feel free to open an issue on the GitHub repository at `github.com/LianJordaan/Conversation-Exporter/issues`. Contributions, such as bug fixes or feature enhancements, are also welcome through pull requests on the repository.
 
 We hope you find the Conversation Exporter extension helpful for exporting and sharing your ChatGPT conversations! Enjoy using it!
