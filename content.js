@@ -56,6 +56,7 @@ setInterval(() => {
                         const imgs = doc.getElementsByTagName('img');
                         for (let i = 0; i < imgs.length; i++) {
                             imgs[i].setAttribute('src', base64data);
+                            imgs[i].setAttribute('srcset', "");
                         }
                         
                         const blob = new Blob([doc.documentElement.outerHTML], { type: 'text/html' });
